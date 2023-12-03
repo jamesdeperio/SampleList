@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="sale">Sale</string>
+</resources>
